@@ -39,4 +39,5 @@
     </extension>
     <languageCode>ru</languageCode>
   </languages>
+  <commonModules>CommonModule.Axapta_ОбщийМодульУдалить</commonModules>
 </mdclass:Configuration>
